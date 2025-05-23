@@ -79,3 +79,36 @@ Planned token rewards and microtipping system (Q3 2024 target).
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Spidroid-Technologies/Starry.git
+
+2. **Firebase Configuration**  
+   a. Obtain `google-services.json`:  
+      1. Create/access your Firebase project at [console.firebase.google.com](https://console.firebase.google.com/)  
+      2. Navigate: *Project Settings > Your Apps > Add App > Android*  
+      3. Enter package name: `com.spidroid.starry`  
+      4. Register app and download config file  
+
+   b. File Placement:  
+      ```text
+      📁 Project Root/
+        └── 📁 app/
+            └── google-services.json  <-- Place here
+      ```
+
+   c. Validate Integration:  
+      - Verify file exists in correct location  
+      - Ensure these Gradle dependencies exist:  
+        ```gradle
+        // Project-level build.gradle
+        classpath 'com.google.gms:google-services:4.3.15'
+
+        // App-level build.gradle (bottom of file)
+        apply plugin: 'com.google.gms.google-services'
+        ```
+
+3. **Build & Run**  
+   ```bash
+   # Sync Gradle dependencies
+   ./gradlew clean build --refresh-dependencies
+
+   # Install debug build
+   ./gradlew installDebug
