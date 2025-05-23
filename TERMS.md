@@ -26,4 +26,4 @@ Spidroid shall not be liable for any direct, indirect, incidental, or consequent
 ## 7. Modifications
 We reserve the right to modify these Terms at any time. Continued use of the Service constitutes your acceptance of the revised Terms.
 
-**Contact:** legal@spidroid.com
+**Contact:** spidroidtechnologies@gmail.com
