@@ -1,69 +1,81 @@
 # Starry 🌟  
-**A Social Platform for Authentic Connection & User Empowerment**  
+*A Social Platform for Authentic Connection & User Empowerment*  
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/<yourusername>/starry/build.yml?branch=main)](https://github.com/<yourusername>/starry/actions)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+<img src="(your-app-banner-image-url)" width="100%" alt="Starry App Banner">  
 
-<img src="(your-app-banner-image-url)" width="100%">
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+---
 
 ## Why Starry? ❤️  
-In an era of algorithm-driven feeds and data exploitation, Starry reimagines social networking with:
+In an era of algorithm-driven feeds and data exploitation, Starry reimagines social networking with:  
 
-✨ **Chronological Transparency**  
-See posts exactly as they're shared - no hidden sorting, no engagement manipulation.
+**✨ Chronological Transparency**  
+See posts exactly as they're shared — no hidden sorting or engagement manipulation.  
 
-🔒 **Privacy by Design**  
-Your data stays yours. We never sell personal information or track behavior across apps.
+**🔒 Privacy by Design**  
+Your data stays yours. No selling personal information or cross-app tracking.  
 
-🎨 **Creative Expression**  
-Combine text, images, and rich media in dynamic post formats. Customize profiles with unique themes.
+**🎨 Creative Expression**  
+Text, images, and rich media in customizable post formats. Stylish, personal profiles.  
 
-🌐 **Decentralization Roadmap**  
-Working towards user-owned communities powered by distributed architecture (coming 2024).
+**🌐 Decentralization Roadmap**  
+User-owned communities and distributed architecture on the way (2024).  
 
-💸 **Creator Economy**  
-Future implementation of token rewards and microtipping system (Q3 2024 target).
+**💸 Creator Economy**  
+Planned token rewards and microtipping system (Q3 2024 target).  
+
+---
 
 ## Features 🚀  
-- Pure chronological feed (no algorithms)  
+- Pure chronological feed  
 - Granular post privacy controls  
-- Media-rich posts with embedded content  
-- Real-time Firebase-powered chat  
+- Rich media posts (images/videos/links)  
+- Real-time Firebase chat  
 - Profile verification system  
-- Dark/Light theme support  
+- Dark/Light theme toggle  
 - Cross-device sync  
-- Progressive Web App foundations  
+- PWA-ready structure  
+
+---
 
 ## Tech Stack ⚙️  
-**Core Components**  
+**Core Technologies**  
 - Android SDK (Java)  
-- Android Studio Giraffe  
-- Firebase Realtime Database  
 - Firebase Authentication  
-- Firebase Cloud Messaging  
+- Firebase Realtime Database  
 - Firebase Storage  
+- Firebase Cloud Messaging  
+
+**UI/UX**  
+- Material Design 3  
+- Dark/Light Mode Support  
+- Adaptive Layouts  
 
 **Architecture**  
 - MVVM Pattern  
 - Repository Pattern  
 - LiveData Observables  
-- Material Design 3 Components  
 
 **Build Tools**  
+- Android Studio Giraffe+  
 - Gradle (Groovy DSL)  
-- GitHub Actions CI/CD  
 - ProGuard/R8 Optimization  
+- GitHub Actions CI/CD  
 
-## Getting Started 🛠️  
+---
 
-### Prerequisites  
+## Getting Started 💠  
+**Prerequisites**  
 - Android Studio Giraffe+  
 - Java JDK 17  
-- Firebase project setup  
 - Android SDK 33+  
+- Firebase project  
 
-### Installation  
-1. Clone repo  
+**Installation**  
+1. Clone the repository:  
 ```bash
-git clone https://github.com/Spidroid-Technologies/Starry
+git clone https://github.com/Spidroid-Technologies/Starry.git
