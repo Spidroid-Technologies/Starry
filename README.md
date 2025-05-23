@@ -111,7 +111,8 @@ git clone https://github.com/Spidroid-Technologies/Starry.git
    ./gradlew clean build --refresh-dependencies
 
    # Install debug build
-   ./gradlew installDebug```
+   ./gradlew installDebug
+   ```
 
 4. **Post-Install Verification**  
    - Check Android Monitor for "Firebase initialization successful" log  
