@@ -66,4 +66,4 @@ Future implementation of token rewards and microtipping system (Q3 2024 target).
 ### Installation  
 1. Clone repo  
 ```bash
-git clone https://github.com/<yourusername>/starry.git
+git clone https://github.com/Spidroid-Technologies/Starry
