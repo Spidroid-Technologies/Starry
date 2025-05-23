@@ -79,7 +79,7 @@ Planned token rewards and microtipping system (Q3 2024 target).
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Spidroid-Technologies/Starry.git
-
+```
 2. **Firebase Configuration**  
    a. Obtain `google-services.json`:  
       1. Create/access your Firebase project at [console.firebase.google.com](https://console.firebase.google.com/)  
