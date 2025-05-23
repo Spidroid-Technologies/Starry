@@ -118,4 +118,15 @@ git clone https://github.com/Spidroid-Technologies/Starry.git
    - Check Android Monitor for "Firebase initialization successful" log  
    - Test authentication flow in app  
    - Verify Realtime Database writes in Firebase console
-```
+
+
+## Legal
+
+This project, **Starry**, is the proprietary software of [Spidroid Technologies Inc.](https://spidroid.com) and is protected under international copyright and intellectual property laws.
+
+**All Rights Reserved.** Unauthorized use, modification, redistribution, or reverse-engineering is strictly prohibited.
+
+- [License](./LICENSE.txt)
+- [Terms of Use](./TERMS.md)
+- [Privacy Policy](./PRIVACY.md)
+- [Contributor License Agreement (CLA)](./CLA.md)
