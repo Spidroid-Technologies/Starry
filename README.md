@@ -126,7 +126,7 @@ This project, **Starry**, is the proprietary software of [Spidroid Technologies 
 
 **All Rights Reserved.** Unauthorized use, modification, redistribution, or reverse-engineering is strictly prohibited.
 
-- [License](./LICENSE.txt)
+- [License](./LICENSE.md)
 - [Terms of Use](./TERMS.md)
 - [Privacy Policy](./PRIVACY.md)
 - [Contributor License Agreement (CLA)](./CLA.md)
