@@ -78,9 +78,7 @@ Planned token rewards and microtipping system (Q3 2024 target).
 **Installation**  
 1. Get the zip file from the Telegram group:  
 [Starry Telegram group](https://t.me/spidroid_starry/)
-```bash
 
-```
 2. **Firebase Configuration**  
    a. Obtain `google-services.json`:  
       1. Create/access your Firebase project at [console.firebase.google.com](https://console.firebase.google.com/)  
