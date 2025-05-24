@@ -76,9 +76,9 @@ Planned token rewards and microtipping system (Q3 2024 target).
 - Firebase project  
 
 **Installation**  
-1. Clone the repository:  
+1. Get the zip file from the Telegram group:  
 ```bash
-git clone https://github.com/Spidroid-Technologies/Starry.git
+https://t.me/spidroid_starry
 ```
 2. **Firebase Configuration**  
    a. Obtain `google-services.json`:  
