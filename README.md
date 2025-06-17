@@ -40,6 +40,23 @@ Planned token rewards and microtipping system (Q3 2024 target).
 - Cross-device sync  
 - PWA-ready structure  
 
+## Visual Walkthrough 🖼️
+
+### Core User Experience
+| Authentication Flow | Chronological Feed | Real-time Chat |
+|---------------------|-------------------|----------------|
+| <img src="docs/features/1-authentication/login-dark.jpg" width="300"> | <img src="docs/features/2-feed/chronological-view.jpg" width="300"> | <img src="docs/features/3-chat/realtime-chat.jpg" width="300"> |
+
+### Privacy & Customization
+| Granular Privacy Controls | Theme Switching | Profile Verification |
+|---------------------------|-----------------|----------------------|
+| <img src="docs/features/2-feed/privacy-badge.jpg" width="300"> | <img src="docs/features/1-authentication/login-light.jpg" width="300"> | <img src="docs/features/profile-verification.jpg" width="300"> |
+
+### Media & Engagement
+| Rich Media Post | Creator Tools | Dark Mode Experience |
+|-----------------|---------------|----------------------|
+| <img src="docs/features/2-feed/media-post.jpg" width="300"> | <img src="docs/features/creator-tools.jpg" width="300"> | <img src="docs/features/dark-mode-feed.jpg" width="300"> |
+
 ---
 
 ## Tech Stack ⚙️  
