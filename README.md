@@ -1,7 +1,7 @@
 # Starry 🌟  
 *A Social Platform for Authentic Connection & User Empowerment*  
 
-<img src="/assets/ic_logo.jpg" width="100%" alt="Starry App Banner">  
+<img src="/assets/ic_logo.jpg" width="40%" alt="Starry App Banner">  
 
 ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
